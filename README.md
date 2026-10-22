@@ -1,4 +1,4 @@
-<!-- 限制顶部容器宽度，修复拉伸和比例失调问题 -->
+<img width="480" height="270" alt="IMG_4784" src="https://github.com/user-attachments/assets/383f5188-3968-4230-9eb1-5d343f18d33b" /><!-- 限制顶部容器宽度，修复拉伸和比例失调问题 -->
 <div align="center" style="max-width: 800px; margin: 0 auto; padding-top: 10px;">
 
 <h1 style="border-bottom: none; font-size: 2.2em; margin-bottom: 8px;">YAO DONG</h1>
@@ -38,13 +38,18 @@ I am an interactive media designer and HCI researcher trained at Harbin Institut
 > **Awarded Outstanding Master's Thesis at HIT** | *Master's Thesis Project*
 
 * **Tech Stack:** `Unity 3D (2020.3.26f1c1)` &nbsp;|&nbsp; `C#` &nbsp;|&nbsp; `Level Design` &nbsp;|&nbsp; `Interactive Narrative`
+
 * **Quick Links:** [<ins>🎥 Watch Demo Video (Bilibili)</ins>](https://www.bilibili.com/video/BV1aynm6gEjD/) &nbsp;·&nbsp; [<ins>📁 GitHub Source Code</ins>](https://github.com/YaoDong000/THE-PUZZLE-GAME-DESIGN-OF-SPRING-MORNING-IN-THE-HAN-PALACE)
+
 
 Inspired by Qiu Ying’s masterpiece *Spring Morning in the Han Palace* (one of China's Top 10 Ancient Paintings), this project explores novel paradigms for room-escape puzzle games within digital media art. By mapping the painting's artistic features into interactive game environments, it constructs two secret room levels:
 
 
 * **Indoor Level — *Endless Joys in Spring* (无边乐事趁春明):** Focuses on interior architecture and court ladies' daily activities, featuring custom puzzle mechanisms tied to classical props.
 * **Outdoor Level — *Danqing Painting in the Spring Breeze* (丹青图画春风里):** Extends to royal gardens and natural landscapes, integrating artistic composition aesthetics with cross-scene narrative puzzles.
+
+<img width="480" height="270" alt="IMG_4782" src="https://github.com/user-attachments/assets/64a0aaad-b61a-44ae-b940-e64edcf97fd1" />
+
 
 
 ---
@@ -54,6 +59,8 @@ Inspired by Qiu Ying’s masterpiece *Spring Morning in the Han Palace* (one of 
 
 * **Tech Stack:** `Unity 6000.6.6f1` &nbsp;|&nbsp; `Branching Video / Node Interaction` &nbsp;|&nbsp; `Adobe AE`
 * **Quick Links:** [<ins>🎥 Watch Demo Video (Bilibili)</ins>](https://www.bilibili.com/video/BV17z4y197GT/) &nbsp;·&nbsp; [<ins>📁 GitHub Source Code</ins>](https://github.com/YaoDong000/Situated-Cognition-in-Oracle-Bone-Script-Interaction)
+
+
 
 Oracle Bone Inscription (OBI) is the origin of Chinese characters. This project leverages Situated Cognition Theory to explore an interactive video display method for OBI culture, transforming ancient symbols into accessible, open aesthetic experiences.
 
