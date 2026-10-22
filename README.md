@@ -33,7 +33,7 @@ I am an interactive media designer and HCI researcher trained at Harbin Institut
 > **Awarded Outstanding Master's Thesis at HIT** | *Master's Thesis Project*
 
 * **Tech Stack:** `Unity 3D (2020.3.26f1c1)` &nbsp;|&nbsp; `C#` &nbsp;|&nbsp; `Level Design` &nbsp;|&nbsp; `Interactive Narrative`
-* **Quick Links:** [<ins>🎥 Watch Demo Video (Bilibili)</ins>](https://www.bilibili.com/video/BV1aynm6gEjD/) &nbsp;·&nbsp; [<ins>📁 GitHub Source Code</ins>](https://github.com/YOUR_USERNAME/Han-Palace-Game)
+* **Quick Links:** [<ins>🎥 Watch Demo Video (Bilibili)</ins>](https://www.bilibili.com/video/BV1aynm6gEjD/) &nbsp;·&nbsp; [<ins>📁 GitHub Source Code</ins>](https://github.com/YaoDong000/THE-PUZZLE-GAME-DESIGN-OF-SPRING-MORNING-IN-THE-HAN-PALACE)
 
 Inspired by Qiu Ying’s masterpiece *Spring Morning in the Han Palace* (one of China's Top 10 Ancient Paintings), this project explores novel paradigms for room-escape puzzle games within digital media art. By mapping the painting's artistic features into interactive game environments, it constructs two secret room levels:
 
@@ -53,7 +53,7 @@ Inspired by Qiu Ying’s masterpiece *Spring Morning in the Han Palace* (one of 
 > **Based on Situated Cognition Theory** | *Undergraduate Thesis Project*
 
 * **Tech Stack:** `Unity 6000.6.6f1` &nbsp;|&nbsp; `Branching Video / Node Interaction` &nbsp;|&nbsp; `Adobe AE`
-* **Quick Links:** [<ins>🎥 Watch Demo Video (Bilibili)</ins>](https://www.bilibili.com/video/BV17z4y197GT/) &nbsp;·&nbsp; [<ins>📁 GitHub Source Code</ins>](https://github.com/YOUR_USERNAME/Oracle-Bone-Interactive-System)
+* **Quick Links:** [<ins>🎥 Watch Demo Video (Bilibili)</ins>](https://www.bilibili.com/video/BV17z4y197GT/) &nbsp;·&nbsp; [<ins>📁 GitHub Source Code</ins>](https://github.com/YaoDong000/Situated-Cognition-in-Oracle-Bone-Script-Interaction)
 
 Oracle Bone Inscription (OBI) is the origin of Chinese characters. This project leverages Situated Cognition Theory to explore an interactive video display method for OBI culture, transforming ancient symbols into accessible, open aesthetic experiences.
 
