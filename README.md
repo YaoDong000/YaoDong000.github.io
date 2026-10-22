@@ -42,15 +42,10 @@ I am an interactive media designer and HCI researcher trained at Harbin Institut
 
 Inspired by Qiu Ying’s masterpiece *Spring Morning in the Han Palace* (one of China's Top 10 Ancient Paintings), this project explores novel paradigms for room-escape puzzle games within digital media art. By mapping the painting's artistic features into interactive game environments, it constructs two secret room levels:
 
-<details>
-<summary><b> Click to expand level design breakdown & details</b></summary>
 
-<br/>
+* **Indoor Level — *Endless Joys in Spring* (无边乐事趁春明):** Focuses on interior architecture and court ladies' daily activities, featuring custom puzzle mechanisms tied to classical props.
+* **Outdoor Level — *Danqing Painting in the Spring Breeze* (丹青图画春风里):** Extends to royal gardens and natural landscapes, integrating artistic composition aesthetics with cross-scene narrative puzzles.
 
-- **Indoor Level — *Endless Joys in Spring* (无边乐事趁春明):** Focuses on interior architecture and court ladies' daily activities, featuring custom puzzle mechanisms tied to classical props.
-- **Outdoor Level — *Danqing Painting in the Spring Breeze* (丹青图画春风里):** Extends to royal gardens and natural landscapes, integrating artistic composition aesthetics with cross-scene narrative puzzles.
-
-</details>
 
 ---
 
@@ -62,16 +57,11 @@ Inspired by Qiu Ying’s masterpiece *Spring Morning in the Han Palace* (one of 
 
 Oracle Bone Inscription (OBI) is the origin of Chinese characters. This project leverages Situated Cognition Theory to explore an interactive video display method for OBI culture, transforming ancient symbols into accessible, open aesthetic experiences.
 
-<details>
-<summary><b>Click to expand features & 5 interaction modules</b></summary>
 
-<br/>
+* **Situated Learning & Experience:** Integrates Oracle bone characters into historical and narrative contexts, allowing users to understand character evolution naturally.
+* **Pictograph Redesign & Animation:** Redesigned color schemes and built animated assets (After Effects) for iconic pictographic characters across **5 core interaction modules**.
+* **Interactive Logic:** Implemented custom UI workflows and smooth branching video interaction logic based on functional requirements.
 
-- **Situated Learning & Experience:** Integrates Oracle bone characters into historical and narrative contexts, allowing users to understand character evolution naturally.
-- **Pictograph Redesign & Animation:** Redesigned color schemes and built animated assets (After Effects) for iconic pictographic characters across **5 core interaction modules**.
-- **Interactive Logic:** Implemented custom UI workflows and smooth branching video interaction logic based on functional requirements.
-
-</details>
 
 ---
 
