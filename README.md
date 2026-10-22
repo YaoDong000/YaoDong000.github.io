@@ -1,21 +1,26 @@
-<div align="center">
+<!-- 限制顶部容器宽度，修复拉伸和比例失调问题 -->
+<div align="center" style="max-width: 800px; margin: 0 auto; padding-top: 10px;">
 
-# YAO DONG 
+<h1 style="border-bottom: none; font-size: 2.2em; margin-bottom: 8px;">YAO DONG</h1>
 
-### **Interactive Media Art & Human-Computer Interaction Researcher**
-
-Harbin Institute of Technology (HIT) · Department of Digital Media Art  
-*M.Des. in Interactive Media Art | B.A. in Digital Media Art*
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub"></a>
+<h3 style="font-weight: 400; color: #57606a; margin-top: 0; margin-bottom: 12px;">
+Interactive Media Art & HCI Researcher<br>
+<span style="font-size: 0.85em; color: #8c959f;">Harbin Institute of Technology (HIT)</span>
+</h3>
+<p style="font-size: 0.95em; line-height: 1.5; color: #24292f; margin-bottom: 16px;">
+<b>M.Des. in Interactive Media Art</b> | <b>B.A. in Digital Media Art</b><br>
+<i>Department of Digital Media Art, Harbin Institute of Technology</i>
+</p>
+<!-- 徽章标签区域 -->
+<p align="center" style="margin-bottom: 20px;">
+  <a href="https://github.com/yaodong000"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="https://space.bilibili.com/YOUR_BILIBILI_ID"><img src="https://img.shields.io/badge/Bilibili-Video_Demo-FB7299?style=flat-square&logo=bilibili" alt="Bilibili"></a>
   <a href="mailto:18846143609@163.com"><img src="https://img.shields.io/badge/Email-18846143609@163.com-D14836?style=flat-square&logo=gmail" alt="Email"></a>
 </p>
 
----
-
 </div>
+
+---
 
 ## 🧭 About Me
 
