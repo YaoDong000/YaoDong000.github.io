@@ -48,13 +48,37 @@ Inspired by Qiu Ying’s masterpiece *Spring Morning in the Han Palace* (one of 
 * **Indoor Level — *Endless Joys in Spring* (无边乐事趁春明):** Focuses on interior architecture and court ladies' daily activities, featuring custom puzzle mechanisms tied to classical props.
 * **Outdoor Level — *Danqing Painting in the Spring Breeze* (丹青图画春风里):** Extends to royal gardens and natural landscapes, integrating artistic composition aesthetics with cross-scene narrative puzzles.
 
-
-<img width="320" height="180" alt="IMG_4782" src="https://github.com/user-attachments/assets/64a0aaad-b61a-44ae-b940-e64edcf97fd1" />
+<!-- <img width="320" height="180" alt="IMG_4782" src="https://github.com/user-attachments/assets/64a0aaad-b61a-44ae-b940-e64edcf97fd1" />
 <img width="320" height="180" alt="IMG_4783" src="https://github.com/user-attachments/assets/4d29bf25-52d7-4de7-9d10-feb9fa665bb2" />
 <img width="320" height="180" alt="IMG_4784" src="https://github.com/user-attachments/assets/1ff71b38-4968-4a49-bdb7-9e28b4e1f993" /> 
-<img width="480" height="270" alt="IMG_4786" src="https://github.com/user-attachments/assets/299b598f-14e7-4758-a69f-d80d8657cc8b" />
+<img width="480" height="270" alt="IMG_4786" src="https://github.com/user-attachments/assets/299b598f-14e7-4758-a69f-d80d8657cc8b" />  -->
 
+<div align="center">
 
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github.com/user-attachments/assets/64a0aaad-b61a-44ae-b940-e64edcf97fd1" width="380" alt="Demo 1"><br/>
+  
+    </td>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github.com/user-attachments/assets/4d29bf25-52d7-4de7-9d10-feb9fa665bb2" width="380" alt="Demo 2"><br/>
+      
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github.com/user-attachments/assets/1ff71b38-4968-4a49-bdb7-9e28b4e1f993" width="380" alt="Demo 3"><br/>
+      
+    </td>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github.com/user-attachments/assets/299b598f-14e7-4758-a69f-d80d8657cc8b" width="380" alt="Demo 4"><br/>
+      
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -73,10 +97,32 @@ Oracle Bone Inscription (OBI) is the origin of Chinese characters. This project 
 * **Pictograph Redesign & Animation:** Redesigned color schemes and built animated assets (After Effects) for iconic pictographic characters across **5 core interaction modules**.
 * **Interactive Logic:** Implemented custom UI workflows and smooth branching video interaction logic based on functional requirements.
 
-<img width="360" height="270" alt="IMG_4787" src="https://github.com/user-attachments/assets/26ba4dd1-9c1b-4db7-9bc1-62bd74164522" />
-<img width="360" height="270" alt="IMG_4788" src="https://github.com/user-attachments/assets/385bc02b-83b7-4095-aab2-875ae34f6b3d" />
-<img width="360" height="270" alt="IMG_4789" src="https://github.com/user-attachments/assets/cbbcf5ef-7509-4113-8570-b602081b4f1a" />
-<img width="360" height="270" alt="IMG_4791" src="https://github.com/user-attachments/assets/9b725e77-d3e2-4020-9dbb-8f48319c27a7" />
+<div align="center">
+
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github.com/user-attachments/assets/26ba4dd1-9c1b-4db7-9bc1-62bd74164522" width="380" alt="Demo 1"><br/>
+  
+    </td>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github.com/user-attachments/assets/385bc02b-83b7-4095-aab2-875ae34f6b3d" width="380" alt="Demo 2"><br/>
+      
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github.com/user-attachments/assets/cbbcf5ef-7509-4113-8570-b602081b4f1a" width="380" alt="Demo 3"><br/>
+      
+    </td>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github.com/user-attachments/assets/9b725e77-d3e2-4020-9dbb-8f48319c27a7" width="380" alt="Demo 4"><br/>
+      
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 ---
