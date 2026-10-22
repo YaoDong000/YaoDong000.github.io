@@ -43,7 +43,7 @@ I am an interactive media designer and HCI researcher trained at Harbin Institut
 Inspired by Qiu Ying’s masterpiece *Spring Morning in the Han Palace* (one of China's Top 10 Ancient Paintings), this project explores novel paradigms for room-escape puzzle games within digital media art. By mapping the painting's artistic features into interactive game environments, it constructs two secret room levels:
 
 <details>
-<summary><b>✨ Click to expand level design breakdown & details</b></summary>
+<summary><b> Click to expand level design breakdown & details</b></summary>
 
 <br/>
 
@@ -63,7 +63,7 @@ Inspired by Qiu Ying’s masterpiece *Spring Morning in the Han Palace* (one of 
 Oracle Bone Inscription (OBI) is the origin of Chinese characters. This project leverages Situated Cognition Theory to explore an interactive video display method for OBI culture, transforming ancient symbols into accessible, open aesthetic experiences.
 
 <details>
-<summary><b>✨ Click to expand features & 5 interaction modules</b></summary>
+<summary><b>Click to expand features & 5 interaction modules</b></summary>
 
 <br/>
 
