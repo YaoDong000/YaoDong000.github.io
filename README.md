@@ -48,10 +48,10 @@ Inspired by Qiu Ying’s masterpiece *Spring Morning in the Han Palace* (one of 
 * **Indoor Level — *Endless Joys in Spring* (无边乐事趁春明):** Focuses on interior architecture and court ladies' daily activities, featuring custom puzzle mechanisms tied to classical props.
 * **Outdoor Level — *Danqing Painting in the Spring Breeze* (丹青图画春风里):** Extends to royal gardens and natural landscapes, integrating artistic composition aesthetics with cross-scene narrative puzzles.
 
-<!-- <img width="320" height="180" alt="IMG_4782" src="https://github.com/user-attachments/assets/64a0aaad-b61a-44ae-b940-e64edcf97fd1" />
-<img width="320" height="180" alt="IMG_4783" src="https://github.com/user-attachments/assets/4d29bf25-52d7-4de7-9d10-feb9fa665bb2" />
-<img width="320" height="180" alt="IMG_4784" src="https://github.com/user-attachments/assets/1ff71b38-4968-4a49-bdb7-9e28b4e1f993" /> 
-<img width="480" height="270" alt="IMG_4786" src="https://github.com/user-attachments/assets/299b598f-14e7-4758-a69f-d80d8657cc8b" />  -->
+<!-- <img width="320" height="180" alt="IMG_4782" src="./assets/IMG_4782" />
+<img width="320" height="180" alt="IMG_4783" src="./assets/IMG_4783" />
+<img width="320" height="180" alt="IMG_4784" src="./assets/IMG_4784" /> 
+<img width="480" height="270" alt="IMG_4786" src="./assets/IMG_4786" />  -->
 
 <div align="center">
 
