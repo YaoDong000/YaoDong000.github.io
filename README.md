@@ -53,33 +53,24 @@ Inspired by Qiu Ying’s masterpiece *Spring Morning in the Han Palace* (one of 
 <img width="320" height="180" alt="IMG_4784" src="./assets/IMG_4784.GIF" /> 
 <img width="480" height="270" alt="IMG_4786" src="./assets/IMG_4786.GIF" />  -->
 
-<div align="center">
-
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
     <td align="center" style="border: none; padding: 5px;">
       <img src="./assets/IMG_4782.GIF" width="380" alt="Demo 1"><br/>
-  
     </td>
     <td align="center" style="border: none; padding: 5px;">
-      <img src="./assets/IMG_4783.GIF" width="380" alt="Demo 2"><br/>
-      
+      <img src="./assets/IMG_4783.GIF" width="380" alt="Demo 2" loading="lazy"><br/>
     </td>
   </tr>
   <tr>
     <td align="center" style="border: none; padding: 5px;">
       <img src="./assets/IMG_4784.GIF" width="380" alt="Demo 3"><br/>
-      
     </td>
     <td align="center" style="border: none; padding: 5px;">
-      <img src="./assets/IMG_4786.GIF" width="380" alt="Demo 4"><br/>
-      
+      <img src="./assets/IMG_4786.GIF" width="380" alt="Demo 4" loading="lazy"><br/>
     </td>
   </tr>
 </table>
-
-</div>
-
 ---
 
 ### 02 / Oracle Bone Inscription Interactive Video System (甲骨文交互视频系统)
@@ -96,33 +87,25 @@ Oracle Bone Inscription (OBI) is the origin of Chinese characters. This project 
 * **Situated Learning & Experience:** Integrates Oracle bone characters into historical and narrative contexts, allowing users to understand character evolution naturally.
 * **Pictograph Redesign & Animation:** Redesigned color schemes and built animated assets (After Effects) for iconic pictographic characters across **5 core interaction modules**.
 * **Interactive Logic:** Implemented custom UI workflows and smooth branching video interaction logic based on functional requirements.
-
 <div align="center">
-
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
     <td align="center" style="border: none; padding: 5px;">
-      <img src="https://github.com/user-attachments/assets/26ba4dd1-9c1b-4db7-9bc1-62bd74164522" width="380" alt="Demo 1"><br/>
-  
+      <img src="./assets/IMG_4787.GIF" width="380" alt="Demo 1"><br/>
     </td>
     <td align="center" style="border: none; padding: 5px;">
-      <img src="https://github.com/user-attachments/assets/385bc02b-83b7-4095-aab2-875ae34f6b3d" width="380" alt="Demo 2"><br/>
-      
+      <img src="./assets/IMG_4788.GIF" width="380" alt="Demo 2" loading="lazy"><br/>
     </td>
   </tr>
   <tr>
     <td align="center" style="border: none; padding: 5px;">
-      <img src="https://github.com/user-attachments/assets/cbbcf5ef-7509-4113-8570-b602081b4f1a" width="380" alt="Demo 3"><br/>
-      
+      <img src="./assets/IMG_4789.GIF" width="380" alt="Demo 3"><br/>
     </td>
     <td align="center" style="border: none; padding: 5px;">
-      <img src="https://github.com/user-attachments/assets/9b725e77-d3e2-4020-9dbb-8f48319c27a7" width="380" alt="Demo 4"><br/>
-      
+      <img src="./assets/IMG_4791.GIF" width="380" alt="Demo 4" loading="lazy"><br/>
     </td>
   </tr>
 </table>
-
-</div>
 
 
 ---
